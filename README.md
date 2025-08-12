@@ -1,4 +1,4 @@
-# Hi there, I'm Uwem Umoren (WeMoren) 👋
+# Hi there, I'm Uwem Umoren (WeMoren)👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=1000&lines=Frontend+Web+Developer;Aspiring+Full-Stack+Developer;Always+Learning+%26+Improving)](https://git.io/typing-svg)
 
@@ -8,6 +8,7 @@
 
 ## 🚀 What I’m Learning
 - ✅ **[freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/WeMoren/responsive-web-design)** *(completed & certified)*
+- 🏁 **freeCodeCamp JavaScript Algorithms and Data Structures** *(course completed — certification pending)*
 - 🏁 **freeCodeCamp Front-End Development Libraries** *(course completed — certification pending)*
 - 📚 **Data Visualization** (APIs & AJAX) — *currently in progress*
 - 📅 **freeCodeCamp Relational Database** — *up next*
@@ -16,7 +17,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:** HTML, CSS, JavaScript(ES6+)
 - **Libraries & Frameworks:** Bootstrap, React, D3.js
 - **Tools:** Git, GitHub, VS Code, Chrome DevTools
 - **Currently Exploring:** API integration, AJAX, JSON data handling

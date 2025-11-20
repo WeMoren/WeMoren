@@ -10,17 +10,18 @@
 - ✅ **[freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/WeMoren/responsive-web-design)** *(completed & certified)*
 - 🏁 **freeCodeCamp JavaScript Algorithms and Data Structures** *(course completed — certification pending)*
 - 🏁 **freeCodeCamp Front-End Development Libraries** *(course completed — certification pending)*
-- 📚 **Data Visualization** (APIs & AJAX) — *currently in progress*
-- 📅 **freeCodeCamp Relational Database** — *up next*
+- 📚 **Data Visualization** — *Completed*
+-{JSON} **JSON, API Integration & AJAX** -*Completed*
+- 📅 **freeCodeCamp Relational Database** — *Currently in Progress*
 - 🌱 **Backend Development** — *coming soon*
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages:** HTML, CSS, JavaScript(ES6+)
-- **Libraries & Frameworks:** Bootstrap, React, D3.js
+- **Libraries & Frameworks:** TailWindcss, Bootstrap, React, D3.js
 - **Tools:** Git, GitHub, VS Code, Chrome DevTools
-- **Currently Exploring:** API integration, AJAX, JSON data handling
+- **Currently Exploring:** *Relational Database*
 
 ---
 
@@ -33,6 +34,14 @@ A web application that fetches and displays real-time weather information using 
 ### [📊 StatCalculator](https://github.com/WeMoren/statcalculator)
 A calculator designed for performing statistical computations.  
 **Tech:** HTML, CSS, JavaScript
+
+### [🎬 Movie Library](https://github.com/WeMoren/movielibrary)
+A web application for browsing, searching, and managing your favorite movies. Built with modern web technologies, it provides an intuitive interface to explore movie details, ratings, and collections.
+
+✨ Features
+🔍 Search movies by title, genre, or year
+📖 View detailed info: synopsis, cast, release date, ratings
+**Tech:** HTML, CSS, JavaScript, React
 
 ### [🔁 Palindrome Checker](https://github.com/WeMoren/palindrome-checker)
 A tool to check whether a given string is a palindrome.  

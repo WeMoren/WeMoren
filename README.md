@@ -11,7 +11,7 @@
 - 🏁 **freeCodeCamp JavaScript Algorithms and Data Structures** *(course completed — certification pending)*
 - 🏁 **freeCodeCamp Front-End Development Libraries** *(course completed — certification pending)*
 - 📚 **Data Visualization** — *Completed*
--{JSON} **JSON, API Integration & AJAX** -*Completed*
+  - **JSON, API Integration & AJAX** -*Completed*
 - 📅 **freeCodeCamp Relational Database** — *Currently in Progress*
 - 🌱 **Backend Development** — *coming soon*
 

@@ -6,7 +6,8 @@
 
 💻 **Frontend Web Developer** | 📈 **Aspiring Full-Stack Developer** | 🌱 Always Learning
 
-🚀 About Me
+🚀 About Me: 
+
 I’m a passionate web developer focused on building clean, responsive, and user‑friendly applications. With a strong foundation in HTML, CSS, and JavaScript, I’m expanding into full‑stack development to deliver end‑to‑end solutions. My goal is to create impactful digital experiences that solve real problems.
 ---
 

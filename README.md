@@ -61,6 +61,96 @@ I’m a passionate web developer focused on building clean, responsive, and user
 **Impact:** Offers an intuitive interface to explore movie details, ratings, and collections.
 ![Movie Library Screenshot](https://www.movie-library-pw5z.vercel.app)
 
+Say no more, buddy 😎🔥
+Here’s your **emoji-powered, clean, ready-to-copy README** — professional but with that sweet visual flair.
+Just copy and paste. 💙
+
+---
+
+# ⏱️ **Countdown Timer**
+
+**🔗 Live Demo:** [https://countdown-timer-eosin-seven.vercel.app](https://countdown-timer-eosin-seven.vercel.app)
+
+A modern, full-screen countdown timer designed for church services, events, study sessions, and productivity. Built with **React**, featuring keyboard shortcuts and a clean, distraction-free UI.
+
+---
+
+## 🧩 **Problem**
+
+Tracking time for events, deadlines, or activities is hard without a clear and reliable tool.
+
+---
+
+## 💡 **Solution**
+
+A simple, customizable countdown timer that lets users set time, start, pause, and reset using on-screen controls or keyboard shortcuts. Runs full-screen and clearly displays **“TIME UP”** when the countdown finishes.
+
+---
+
+## 🚀 **Impact**
+
+Helps users manage time effectively across devices.
+Includes fast and convenient keyboard shortcuts:
+
+* **S** or **Enter** → Start
+* **P** → Pause
+* **R** → Reset
+
+---
+
+## ⭐ **Features**
+
+* ⏳ Set custom minutes and seconds
+* 🎛️ Keyboard shortcuts for quick control
+* 🟥 Big **TIME UP** display on completion
+* 🕒 Live date & time at the bottom
+* 🎨 Smooth gradient full-screen UI
+* 📱 Fully responsive
+* 👀 Controls auto-hide after start
+* ©️ Footer with year and author credit
+
+---
+
+## 🛠️ **Tech Used**
+
+* **React (JavaScript)**
+* **CSS**
+* **Vite**
+* **Vercel** (deployment, analytics & observability)
+
+---
+
+## 🧭 **How to Use**
+
+1. Set your desired **minutes** and **seconds**.
+2. Start the countdown via button or shortcuts:
+
+   * `S` / `Enter` → Start
+   * `P` → Pause
+   * `R` → Reset
+3. Timer expands to full-screen mode.
+4. When time reaches zero, **TIME UP** appears in red.
+
+---
+
+## 🖥️ **Installation**
+
+```bash
+git clone https://github.com/WeMoren/countdown-timer.git
+cd countdown-timer
+npm install
+npm run dev
+```
+
+---
+
+## 📝 **License**
+
+© 2025 Countdown — All Rights Reserved. **WeMoren**
+
+---
+
+
 ### [🔁 Palindrome Checker](https://github.com/WeMoren/palindrome-checker)
 A tool to check whether a given string is a palindrome.  
 **Tech:** HTML, CSS, JavaScript

@@ -95,6 +95,9 @@ Includes fast and convenient keyboard shortcuts:
 * **S** or **Enter** → Start
 * **P** → Pause
 * **R** → Reset
+* **SPACEBAR** → Freez & unfreez
+* **ARROW UP** → Increases time by 1 minute
+* **ARROW DOWN** → Decreases time by 1 minute
 
 ---
 

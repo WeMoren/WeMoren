@@ -24,7 +24,7 @@ I’m a passionate web developer focused on building clean, responsive, and user
 
 ## 🛠️ Tech Stack
 - **Languages:** HTML, CSS, JavaScript(ES6+)
-- **Libraries & Frameworks:** TailWindcss, Bootstrap, React, D3.js
+- **Libraries & Frameworks:** Next.js, React, TailWindcss, Bootstrap, D3.js
 - **Tools:** Git, GitHub, VS Code, Chrome DevTools
 - **Currently Exploring:** *Relational Database*
 

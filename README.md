@@ -98,6 +98,7 @@ Includes fast and convenient keyboard shortcuts:
 * **SPACEBAR** → Freez & unfreez
 * **ARROW UP** → Increases time by 1 minute
 * **ARROW DOWN** → Decreases time by 1 minute
+* **F11** → Displays timer on fullscreen / exits fullscreen
 
 ---
 

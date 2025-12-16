@@ -11,7 +11,7 @@
 I’m a passionate web developer focused on building clean, responsive, and user‑friendly applications. With a strong foundation in HTML, CSS, and JavaScript, I’m expanding into full‑stack development to deliver end‑to‑end solutions. My goal is to create impactful digital experiences that solve real problems.
 ---
 
-## 🚀 What I’m Learning
+## 🚀 My Focus
 - ✅ **[freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/WeMoren/responsive-web-design)** *(completed & certified)*
 - 🏁 **freeCodeCamp JavaScript Algorithms and Data Structures** *(course completed — certification pending)*
 - 🏁 **freeCodeCamp Front-End Development Libraries** *(course completed — certification pending)*
@@ -103,15 +103,33 @@ Includes fast and convenient keyboard shortcuts:
 
 ## ⭐ **Features**
 
+- ⌨️ **Keyboard shortcuts support** for fast interaction
+- 🧠 **Built-in Help Modal** explaining all controls
+- 🚫 **Help modal never interrupts active countdown**
+- 🎯 **Smooth slide-in / slide-out animations**
+- 🔄 **Start, pause, resume, and reset controls**
+- 🕒 **Minute & second input support**
+- 🎨 **Custom favicon & clean UI**
+- ⚡ Built with **Vite** for fast performance
 * ⏳ Set custom minutes and seconds
-* 🎛️ Keyboard shortcuts for quick control
 * 🟥 Big **TIME UP** display on completion
 * 🕒 Live date & time at the bottom
 * 🎨 Smooth gradient full-screen UI
 * 📱 Fully responsive
 * 👀 Controls auto-hide after start
 * ©️ Footer with year and author credit
+* 💡 The help modal is disabled while the timer is running to avoid distractions.
 
+
+## 🧩 UX Decisions (Why this app is user-friendly)
+
+- **Help shows on first load** so users understand the app immediately  
+- **Keyboard-first design** for power users  
+- **Modal animations** give clear visual feedback  
+- **Modal auto-hides when timer starts** to keep focus  
+- **Click outside or Esc to close** — intuitive behavior  
+
+These decisions were made intentionally to improve clarity, flow, and accessibility.
 ---
 
 ## 🛠️ **Tech Used**

@@ -17,7 +17,7 @@ I’m a passionate web developer focused on building clean, responsive, and user
 - 🏁 **freeCodeCamp Front-End Development Libraries** *(course completed — certification pending)*
 - 📚 **Data Visualization** — *Completed*
 - 🔗 **JSON, API Integration & AJAX** -*Completed*
-- 📅 **freeCodeCamp Relational Database** — *Currently in Progress*
+- 📅 **freeCodeCamp Relational Database** — **
 - 🌱 **Backend Development** — *coming soon*
 
 ---
